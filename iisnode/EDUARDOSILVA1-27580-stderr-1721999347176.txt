@@ -1,0 +1,7 @@
+Application has thrown an uncaught exception and is terminated:
+ReferenceError: port is not defined
+    at Server.<anonymous> (C:\Projects\ComunidadCould\apiNode\index.js:22:60)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35)
+    at emitListeningNT (node:net:1931:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
